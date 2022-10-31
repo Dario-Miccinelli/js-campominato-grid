@@ -1,9 +1,18 @@
 .output {
     width: calc(100%/10);
-  
     aspect-ratio: 1/1;
-    border: 2px solid black ;
-    background-color: gray;
+    border: 1px solid black ;
+    background-color: darkslateblue;
     margin: auto;
+    text-align: center;
+ 
+}
+
+
+#griglia {
+    width: 50%;
+    margin: auto;
+    color: white;
+    font-size: 0.8rem;
 }
 
